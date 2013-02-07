@@ -1,1 +1,4 @@
 bin/
+
+# Maven generated files
+target/
